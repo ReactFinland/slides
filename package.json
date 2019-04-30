@@ -1,0 +1,26 @@
+{
+  "name": "slides",
+  "version": "0.0.0",
+  "description": "This repository contains slides for React Finland conference per year in PDF format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactFinland/slides.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReactFinland/slides/issues"
+  },
+  "homepage": "https://github.com/ReactFinland/slides#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "mri": "^1.1.4",
+    "prettier": "^1.17.0",
+    "puppeteer": "^1.15.0"
+  }
+}
